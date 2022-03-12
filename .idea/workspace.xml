@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66be619a-46d4-4498-a281-190e86b2c024" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reserve8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseNumber3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reserve8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverse9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverseNumber2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/reverseNumber3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24cxtnx4U27kWYElhdNaVYJvvT7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.reverse14">
+    <configuration name="reverse10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse10" />
+      <module name="Reverse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse11" />
+      <module name="Reverse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse12" />
+      <module name="Reverse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse13" />
+      <module name="Reverse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse14" />
+      <module name="Reverse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reverse14" />
+        <item itemvalue="Application.reverse13" />
+        <item itemvalue="Application.reverse12" />
+        <item itemvalue="Application.reverse11" />
+        <item itemvalue="Application.reverse10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66be619a-46d4-4498-a281-190e86b2c024" name="Default Changelist" comment="" />
+      <created>1643943900178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643943900178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Reverse$reverse13.ic" NAME="reverse13 Coverage Results" MODIFIED="1646189670671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
